@@ -1,0 +1,51 @@
+body{
+    background-color: steelblue;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+table{
+    border-color: black;
+    border-width: thick;
+    border-style: solid;
+    border-collapse:collapse;
+    width:50%;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color: cornflowerblue;
+    border-color: darkblue;
+    border-width: thin;
+    border-style: solid;
+    font-family: cursive;
+    font-size: larger;
+    padding: 5px;
+   
+}
+td{
+    background-color: teal;
+    border-color: darkblue;
+    border-width: thin;
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    
+}
+span{
+    color:tomato
+}
+.selector{
+    color:darkblue;
+    font-style: oblique;
+    font-weight: 900;
+    text-transform: capitalize;
+}
